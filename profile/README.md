@@ -1,12 +1,5 @@
-## Hi there 👋
+## About
 
-<!--
+Grey Hat LLC is a ROBLOX development studio based around the world. We're a passionate team of developers who always aim to reach new heights when it comes to producing experiences on the ROBLOX platform.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We plan on releasing public repositories based around security solutions for smaller ROBLOX developers in the near future.
