@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  ![Banner](https://raw.githubusercontent.com/greyhatllc/branding/main/banner.png)
-
   ### _Redefining ROBLOX Experiences_
   
   [![Discord](https://img.shields.io/discord/DISCORD_ID?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/greyhat)
@@ -57,18 +55,6 @@ Grey Hat LLC brings together exceptional talent from around the globe. Our diver
 - 🎭 **3D Artists**
 - 🎵 **Audio Engineers**
 - 📊 **Analytics Specialists**
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![Repositories](https://img.shields.io/badge/Repositories-25+-brightgreen?style=for-the-badge)
-  ![Contributors](https://img.shields.io/badge/Contributors-30+-blue?style=for-the-badge)
-  ![Stars](https://img.shields.io/badge/Stars-1000+-yellow?style=for-the-badge)
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=greyhatllc&show_icons=true&theme=radical" alt="GitHub Stats">
-  
-</div>
 
 ---
 
