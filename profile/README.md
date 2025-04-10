@@ -4,8 +4,6 @@
   
   ### _Redefining ROBLOX Experiences_
   
-  [![Discord](https://img.shields.io/discord/DISCORD_ID?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/greyhat)
-  [![Twitter](https://img.shields.io/twitter/follow/GreyHatLLC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/GreyHatLLC)
   [![Roblox Group](https://img.shields.io/badge/ROBLOX-Group-FF0000?style=for-the-badge&logo=roblox)](https://www.roblox.com/groups/greyhat)
   
 </div>
