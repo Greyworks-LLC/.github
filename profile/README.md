@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Group](https://img.shields.io/badge/ROBLOX-Group-FF0000?style=for-the-badge&logo=roblox)](https://www.roblox.com/groups/greyhat)
+  [![Roblox Group](https://img.shields.io/badge/ROBLOX-FF0000?style=for-the-badge&logo=roblox)](https://www.roblox.com/groups/greyhat)
   
 </div>
 
