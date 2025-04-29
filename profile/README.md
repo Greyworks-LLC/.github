@@ -33,8 +33,7 @@ Our mission is simple: **Create groundbreaking experiences that leave lasting im
 
 <div align="center">
   
-  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-  ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge)
+  ![LuaU](https://img.shields.io/badge/LuaU-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
