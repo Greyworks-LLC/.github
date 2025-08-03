@@ -1,4 +1,4 @@
-# Grey Hat LLC
+# Greyworks
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 ## 👋 Who We Are
 
-Grey Hat LLC is a global collective of passionate ROBLOX developers pushing the boundaries of what's possible on the platform. With team members located across the world, we bring diverse perspectives and innovative approaches to every project we undertake.
+Greyworks is a global collective of passionate ROBLOX developers pushing the boundaries of what's possible on the platform. With team members located across the world, we bring diverse perspectives and innovative approaches to every project we undertake.
 
 Our mission is simple: **Create groundbreaking experiences that leave lasting impressions.**
 
@@ -16,9 +16,9 @@ Our mission is simple: **Create groundbreaking experiences that leave lasting im
 
 <div align="center">
   
-  | 🎮 Game Development | 🛠️ Tool Creation | 📚 Community Resources |
+  | 🎮 Game Development | 🛠️ Tool Creation | 📚 Resources |
   |:------------------:|:----------------:|:----------------------:|
-  | Immersive gameplay experiences with cutting-edge mechanics | Developer utilities that streamline ROBLOX workflows | Open-source frameworks and educational content |
+  | Immersive gameplay experiences with cutting-edge mechanics that have never been seen before | Tools that streamline ROBLOX workflows | Open-source frameworks and educational content to aid other developers |
   
 </div>
 
@@ -43,7 +43,7 @@ Our mission is simple: **Create groundbreaking experiences that leave lasting im
 
 ## 👥 Our Team
 
-Grey Hat LLC brings together exceptional talent from around the globe. Our diverse team includes:
+Greyworks brings together exceptional talent from around the globe. Our diverse team includes:
 
 - 🎨 **Game Designers**
 - 💻 **Programmers**
@@ -54,7 +54,5 @@ Grey Hat LLC brings together exceptional talent from around the globe. Our diver
 ---
 
 <div align="center">
-  <p>© 2025 Grey Hat LLC | All Rights Reserved</p>
-  
-  <p><i>Crafting extraordinary experiences, one block at a time.</i></p>
+  <p>© 2025 Greyworks Limited | All Rights Reserved</p>
 </div>
