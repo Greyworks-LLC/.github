@@ -3,6 +3,8 @@
 <div align="center">
 
   [![Roblox Group](https://img.shields.io/badge/ROBLOX-FF0000?style=for-the-badge&logo=roblox)](https://www.roblox.com/groups/greyhat)
+  [![Instagram Profile](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram)](https://www.roblox.com/groups/greyhat)
+  [![X (formally known as Twitter](https://img.shields.io/badge/X%20(formally%20known%20as%20Twitter)-000000?style=for-the-badge&logo=x)](https://www/)
   
 </div>
 
